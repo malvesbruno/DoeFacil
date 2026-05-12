@@ -1,16 +1,23 @@
-# doe_facil
+# DoeFácil 🌿
 
-A new Flutter project.
+O **DoeFácil** é um aplicativo Flutter desenvolvido para facilitar a gestão de doações e controle de estoque em ONGs. O projeto foca em resolver o problema comum de perda de insumos por vencimento através de uma interface intuitiva e alertas automáticos.
 
-## Getting Started
+## 🛠 Tecnologias Utilizadas
 
-This project is a starting point for a Flutter application.
+- **Flutter:** UI Toolkit para apps nativos.
+- **Firebase Auth:** Autenticação robusta de usuários.
+- **Cloud Firestore:** Banco de dados NoSQL em tempo real.
+- **Provider/StreamBuilder:** Gerenciamento de estado reativo.
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Funcionalidades
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [x] **Gestão de Acesso:** Login e cadastro de administradores.
+- [x] **Monitoramento de Estoque:** Visão geral de itens totais e críticos.
+- [x] **Alertas de Vencimento:** Lógica automática para identificar produtos próximos da validade.
+- [x] **Log de Atividades:** Histórico de entradas e saídas.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Como Executar o Projeto
+
+1. **Clone o repositório:**
+   ```bash
+   git clone [https://github.com/seu-usuario/doe-facil.git](https://github.com/seu-usuario/doe-facil.git)
