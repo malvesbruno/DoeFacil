@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177982167371",
+    "project_id": "doefacil-5d9f6",
+    "storage_bucket": "doefacil-5d9f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177982167371:android:a07bf2c7f4d8ceb390b0ce",
+        "android_client_info": {
+          "package_name": "com.example.doe_facil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkDV5CLCGFeHvpDnq9JVh0EtAx3X4d2XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
